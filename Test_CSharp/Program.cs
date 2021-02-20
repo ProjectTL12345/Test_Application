@@ -15,7 +15,7 @@ namespace Test_CSharp {
             Console.WriteLine(program.Plus(10, 10));
         }
 
-        int Plus(int number1, int number2) { // This is new function
+        int Plus(int number1, int number2) { // This is new function 
             return number1 + number2;
         }
     }
